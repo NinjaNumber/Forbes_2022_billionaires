@@ -21,4 +21,6 @@ Finance & Investment >> Techonology >> Manufacturing >> Fashion & Retail >> Heal
 The graph suggests that there is no relationship between age and networth as money seems to be evenly distributed
 
 **6. Age distribution**
-Age distribution of billionaires seems to be normally distributed with most billionaires fall into the group 50-70 years
+Age distribution of billionaires seems to be normally distributed with most billionaires fall into the group 50-70 years.
+
+<img src="https://github.com/NinjaNumber/Forbes_2022_billionaires/assets/134427647/b82569e0-2c2d-4c7a-9b21-5774f59b4109" width=500 margin-left: auto margin-right: auto>
